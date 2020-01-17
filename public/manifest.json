@@ -6,13 +6,13 @@
   "description": "Glossary of Computer Science words",
   "icons": [
     {
-      "src": "app.png",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "400x400"
     }
   ],
   "orientation": "portrait",
-  "start_url": "index.php",
+  "start_url": "index.html",
   "theme_color": "#1976D2",
   "display": "standalone"
 }
