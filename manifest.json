@@ -1,0 +1,18 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "short_name": "ITGlossary",
+  "name": "ITGlossary",
+  "description": "Glossary of Computer Science words",
+  "icons": [
+    {
+      "src": "app.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "orientation": "portrait",
+  "start_url": "index.php",
+  "theme_color": "#1976D2",
+  "display": "standalone"
+}
